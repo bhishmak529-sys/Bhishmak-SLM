@@ -1,0 +1,9 @@
+gradio
+PyPDF2
+requests
+pillow
+gtts
+youtube-transcript-api
+python-docx
+beautifulsoup4
+duckduckgo-search
